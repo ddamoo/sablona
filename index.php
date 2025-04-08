@@ -11,16 +11,18 @@
 <body>
     <header class="container main-header">
         <div>
-          <a href="index.html">
+          <a href="index.php">
             <img src="img/logo.png" height="40">
           </a>
         </div>
       <nav class="main-nav">
         <ul class="main-menu" id="main-menu">
-            <li><a href="index.html">Domov</a></li>
-            <li><a href="portfolio.html">Portfólio</a></li>
-            <li><a href="qna.html">Q&A</a></li>
-            <li><a href="kontakt.html">Kontakt</a></li>
+            <li><a href="index.php">Domov</a></li>
+            <li><a href="portfolio.php">Portfólio</a></li>
+            <li><a href="qna.php">Q&A</a></li>
+            <li><a href="kontakt.php">Kontakt</a></li>
+            <li><a href="thankyou.php">Poďakovanie</a></li>
+            <li><a href="db.php">DB</a></li>
         </ul>
         <a class="hamburger" id="hamburger">
             <i class="fa fa-bars"></i>
@@ -90,9 +92,12 @@
       </div>
       <div class="col-25">
         <h4>Rýchle odkazy</h4>
-        <p><a href="/">Domov</a></p>
-        <p><a href="/qna">Q&A</a></p>
-        <p><a href="/kontakt">Kontakt</a></p>
+        <p><a href="index.php">Domov</a></p>
+        <p><a href="portfolio.php">Portfólio</a></p>
+        <p><a href="qna.php">Q&A</a></p>
+        <p><a href="kontakt.php">Kontakt</a></p>
+        <p><a href="thankyou.php">Poďakovanie</a></p>
+        <p><a href="db.php">DB</a></p>
       </div>
       <div class="col-25">
         <h4>Nájdete nás</h4>
